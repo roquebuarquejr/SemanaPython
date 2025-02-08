@@ -14,13 +14,7 @@ Este repositório documenta meu desafio de **5 dias aprendendo Python do zero**,
 2. **Instalar um editor de código:**
    - Recomendo **VS Code** ou **PyCharm**
 3. **Testar a instalação:**
-   ```bash
-   python --version  # Verifica se o Python está instalado
-   ```
 4. **Criar e rodar um script simples:**
-   ```python
-   print("Olá, mundo! Estou começando com Python!")
-   ```
 
 ### ✅ **Exercícios:**
 1. Crie um script que imprime seu nome e idade.
@@ -56,30 +50,10 @@ Este repositório documenta meu desafio de **5 dias aprendendo Python do zero**,
 
 ### 🛠 **Passo a passo:**
 1. **Instalar Pandas e OpenPyXL:**
-   ```bash
-   pip install pandas openpyxl
-   ```
 2. **Ler um arquivo CSV:**
-   ```python
-   import pandas as pd
-   df = pd.read_csv("gastos.csv")
-   print(df.head())
-   ```
 3. **Ler um arquivo Excel (.xlsx):**
-   ```python
-   df = pd.read_excel("gastos.xlsx")
-   print(df.head())
-   ```
 4. **Converter colunas em listas:**
-   ```python
-   categorias = df["Categoria"].tolist()
-   valores = df["Valor"].tolist()
-   ```
 5. **Somar os gastos por categoria:**
-   ```python
-   total = sum(valores)
-   print(f"Gasto total: R$ {total:.2f}")
-   ```
 
 ### ✅ **Exercícios:**
 1. Liste todas as categorias presentes na planilha.
@@ -90,36 +64,32 @@ Este repositório documenta meu desafio de **5 dias aprendendo Python do zero**,
 
 ---
 
-## 📅 **Dia 4: Criando Gráficos dos Dados da Planilha**
-### 🎯 **Objetivo:** Visualizar os dados usando gráficos.
+## 📅 **Dia 4: Criando uma Interface Web para Visualizar os Dados**
+### 🎯 **Objetivo:** Criar uma aplicação web simples para visualizar os gráficos.
 
 ### 🛠 **Passo a passo:**
-1. **Instalar Matplotlib e Seaborn:**
-   ```bash
-   pip install matplotlib seaborn
-   ```
-2. **Criar um gráfico de barras:**
-   ```python
-   import matplotlib.pyplot as plt
-   plt.bar(categorias, valores)
-   plt.xlabel("Categorias")
-   plt.ylabel("Gastos")
-   plt.title("Gastos por Categoria")
-   plt.show()
-   ```
-3. **Criar um gráfico de pizza:**
-   ```python
-   plt.pie(valores, labels=categorias, autopct='%1.1f%%')
-   plt.title("Distribuição dos Gastos")
-   plt.show()
-   ```
+1. **Instalar o Streamlit:**
+2. **Criar um arquivo `app.py` e adicionar um layout básico:**
+3. **Exibir os gráficos dentro da aplicação:**
+4. **Rodar a aplicação no navegador:**
 
 ### ✅ **Exercícios:**
-1. Crie um gráfico de linha mostrando os gastos ao longo do tempo.
-2. Mude as cores e o estilo do gráfico.
-3. Adicione uma legenda personalizada ao gráfico.
-4. Exiba os 3 maiores gastos do mês.
-5. Salve o gráfico gerado como uma imagem (`.png`).
+1. Adicione um botão para atualizar os dados automaticamente.
+2. Inclua filtros para visualizar apenas determinadas categorias.
+3. Mostre um resumo dos gastos do mês.
+
+---
+
+## 📅 **Dia 5: Integração com AI**
+### 🎯 **Objetivo:** Gerar insights financeiros com IA.
+
+### 🛠 **Passo a passo:**
+1. **Integrar OpenAI:**
+2. **Criar visualização de insights**
+
+
+### ✅ **Exercícios:**
+1. Mostrar outros insights como alertas, recomendações, análise de rentabilidade. 
 
 ---
 
