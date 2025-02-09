@@ -6,6 +6,20 @@ Este repositório documenta meu desafio de **5 dias aprendendo Python do zero**,
 
 ---
 
+## 📸 **Prévia do Projeto**
+Aqui estão alguns exemplos do que construí ao longo do desafio:
+
+### 📊 **Leitura e Análise da Planilha**
+![Screenshot 2025-02-09 at 16 56 42](https://github.com/user-attachments/assets/821c56b3-2320-498d-aef8-bcfdd4f97b55)
+
+### 📈 **Visualização dos Gráficos**
+![Screenshot 2025-02-09 at 16 56 59](https://github.com/user-attachments/assets/073fbb5f-05e0-4e2f-9ed6-1796c8a7a28b)
+
+### 🤖 **Insights com AI**
+![Screenshot 2025-02-09 at 16 57 07](https://github.com/user-attachments/assets/e3473773-6e68-4164-b4a1-eddf121560d4)
+
+---
+
 ## 📅 **Dia 1: Instalando o Ambiente de Desenvolvimento**
 ### 🎯 **Objetivo:** Configurar tudo para começar a programar em Python.
 
