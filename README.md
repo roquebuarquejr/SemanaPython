@@ -30,12 +30,6 @@ Aqui estão alguns exemplos do que construí ao longo do desafio:
 3. **Testar a instalação:**
 4. **Criar e rodar um script simples:**
 
-### ✅ **Exercícios:**
-1. Crie um script que imprime seu nome e idade.
-2. Escreva um programa que exibe a data e hora atual.
-3. Faça um script que recebe um número do usuário e o imprime na tela.
-4. Teste rodar um programa pelo terminal (`python nome_do_arquivo.py`).
-5. Descubra onde o Python está instalado no seu computador e adicione o caminho ao `PATH`.
 
 ---
 
@@ -50,13 +44,6 @@ Aqui estão alguns exemplos do que construí ao longo do desafio:
 - **Loops (`for`, `while`)**
 - **Listas (`list`) e Arrays**
 
-### ✅ **Exercícios:**
-1. Crie um programa que pede ao usuário dois números e imprime a soma deles.
-2. Faça um programa que recebe um número e diz se ele é par ou ímpar.
-3. Crie uma lista com 5 números e imprima cada um usando um `for` loop.
-4. Peça a idade do usuário e informe se ele é maior ou menor de idade.
-5. Faça um contador que imprime de 1 a 10 usando `while`.
-
 ---
 
 ## 📅 **Dia 3: Lendo a Planilha de Gastos**
@@ -69,13 +56,6 @@ Aqui estão alguns exemplos do que construí ao longo do desafio:
 4. **Converter colunas em listas:**
 5. **Somar os gastos por categoria:**
 
-### ✅ **Exercícios:**
-1. Liste todas as categorias presentes na planilha.
-2. Exiba o maior e o menor gasto registrado.
-3. Calcule a média dos gastos.
-4. Conte quantos registros existem na planilha.
-5. Filtre e exiba apenas os gastos acima de R$ 500.
-
 ---
 
 ## 📅 **Dia 4: Criando uma Interface Web para Visualizar os Dados**
@@ -87,11 +67,6 @@ Aqui estão alguns exemplos do que construí ao longo do desafio:
 3. **Exibir os gráficos dentro da aplicação:**
 4. **Rodar a aplicação no navegador:**
 
-### ✅ **Exercícios:**
-1. Adicione um botão para atualizar os dados automaticamente.
-2. Inclua filtros para visualizar apenas determinadas categorias.
-3. Mostre um resumo dos gastos do mês.
-
 ---
 
 ## 📅 **Dia 5: Integração com AI**
@@ -100,10 +75,6 @@ Aqui estão alguns exemplos do que construí ao longo do desafio:
 ### 🛠 **Passo a passo:**
 1. **Integrar OpenAI:**
 2. **Criar visualização de insights**
-
-
-### ✅ **Exercícios:**
-1. Mostrar outros insights como alertas, recomendações, análise de rentabilidade. 
 
 ---
 
