@@ -2,7 +2,7 @@
 
 Este repositório documenta meu desafio de **5 dias aprendendo Python do zero**, onde aplico os conceitos na leitura de uma planilha de gastos, criação de gráficos e integração com a OpenAI para análise financeira. Se você também quer aprender Python do zero, siga este guia! 🎯
 
-📺 **Vídeo Intro:** *(Adicione o link aqui)*
+📺 **Vídeo Intro:** https://youtu.be/jBbrupktFn4?si=eTxGiDJTjcYszQ4-
 
 ---
 
